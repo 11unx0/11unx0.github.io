@@ -2,7 +2,7 @@
 Myself developed web site, contains :: portfolio, blog, projects, contact etc.
 
 If you want to use this:
-- Don't do that :: clone > change > reupload
+- Don't do that :: clone > change > reupload.
 - Do that :: fork > change > rename the repo with your username.
 - Give reference to me [ 11unx0 ] , if you use.
 
